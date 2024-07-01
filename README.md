@@ -6,6 +6,9 @@ Welcome to my Ethical Hacking learning repository! This repository is dedicated 
 
 I am a new master's student studying Data Science at NUST MISIS with a passion for Cybersecurity and Ethical Hacking. My goal is to leverage my knowledge in Data Science, Machine Learning, and Artificial Neural Networks to contribute to the world of Cybersecurity.
 
+## CTF Profile
+https://play.picoctf.org/users/son9fkratos
+
 ## Repository Purpose
 
 This repository serves as a hub for my learning activities, where I will:

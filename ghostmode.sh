@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# The script adds a whitespace in your terminal allowing you to run commands without them being saved in the history folder.
+
 PROMPT_COMMAND_STRING='PROMPT_COMMAND=\'READLINE_LINE=" $READLINE_LINE"; READLINE_POINT=${#READLINE_LINE}\''
 
 # Check if the .bashrc file already contains PROMPT_COMMAND modification

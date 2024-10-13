@@ -1,2 +1,0 @@
-DevGuru Walkthrough - https://medium.com/@mgbemenam/ctf-devguru-walkthrough-005bc10d2480
-Pentester Lab: SQL Injection to Shell I- https://medium.com/@mgbemenam/pentester-lab-sql-injection-to-shell-i-8e2344afa312
